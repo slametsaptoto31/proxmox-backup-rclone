@@ -31,8 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. ketik n dan y:
 <br />
-![alt text](./tunnelssh.png)
+![alt text](./rclone7.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g. lakukan tunnel ssh ke 127.0.0.1:
 <br />
-![alt text](./rclone8.png)
+![alt text](./tunnelssh.png)
