@@ -9,12 +9,8 @@
 ```sh
   rclone config
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. 1:
-```nano
-      bind-address = 172.16.24.24
-```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. 2:
-```vim
-      server-id = 1
-      log_bin = /var/log/mysql/mysql-bin.log
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. ketik n untuk membuat remote baru dan beri nama:
+![alt text](./rclone2.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. ketik 13:
+![alt text](./rclone3.png)
