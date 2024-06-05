@@ -10,9 +10,9 @@
   rclone config
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. ketik n untuk membuat remote baru dan beri nama:
-</ br>
+<br />
 ![alt text](./rclone2.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. ketik 13:
-</ br>
+<br />
 ![alt text](./rclone3.png)
